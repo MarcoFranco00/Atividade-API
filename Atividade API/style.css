@@ -1,0 +1,23 @@
+
+body {
+    background-color: #212529;
+    color: white;
+}
+
+.caixa {
+    max-width: 500px;
+    background-color: #343a40;
+}
+
+.titulo {
+    color: orange;
+}
+
+.botao {
+    background-color: orange;
+}
+
+.resultado {
+    background-color: white;
+    color: black;
+}
